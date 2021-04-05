@@ -35,9 +35,9 @@
 
 Property                   | Data  
 ---------------------------|------
-Programming Language       | ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-Front-end      			   | 
-Back-end    			   | 
+Programming Language       | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
+Front-end      			   | ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) 
+Back-end    			   | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) 
 IDE / Tool / Framework     | 
 
 <!-- GITHUB ANALYTICS -->
