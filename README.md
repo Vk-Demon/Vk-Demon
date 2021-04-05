@@ -1,7 +1,7 @@
 <!-- @Vk-Demon Readme.md-->
-<h2 align="center">
+<h1 align="center">
   Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21">, I'm Vimal Kannan
-</h2>
+</h1>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -9,17 +9,22 @@
 </p>
 
 <!-- Badges template - https://github.com/badges/shields -->
-<!-- View counter - https://github.com/Vk-Demon/Simple-View-Counter -->
 <p align="center">
   <a href="https://github.com/Vk-Demon">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Vk-Demon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Vk-Demon" alt="Vk-Demon" /> </p>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=Vk-Demon" alt="Vk-Demon" /> 
+</p>
 
-### 💻 &nbsp;About Me 
+<!-- ABOUT MYSELF -->
+<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> &nbsp;About Me </h2>
 
-### 💻 &nbsp;Tech Stack
+<!-- TECH STACK -->
+<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> &nbsp;Tech Stack </h1>
 
-### 💻 &nbsp;Github Analytics
+<!-- GITHUB ANALYTICS -->
+<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> &nbsp;Github Analytics </h1>
 
-### 💻 &nbsp;Connect with Me
+<!-- CONNECT WITH ME -->
+<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> &nbsp;Connect with Me </h1>
