@@ -18,13 +18,13 @@
 </p>
 
 <!-- ABOUT MYSELF -->
-<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> &nbsp;About Me </h2>
+<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"> &nbsp;About Me </h2>
 
 <!-- TECH STACK -->
-<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> &nbsp;Tech Stack </h1>
+<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"> &nbsp;Tech Stack </h2>
 
 <!-- GITHUB ANALYTICS -->
-<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> &nbsp;Github Analytics </h1>
+<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"> &nbsp;Github Analytics </h2>
 
 <!-- CONNECT WITH ME -->
-<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> &nbsp;Connect with Me </h1>
+<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"> &nbsp;Connect with Me </h2>
