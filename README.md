@@ -13,9 +13,8 @@
 <p align="center">
   <a href="https://github.com/Vk-Demon">
     <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Vk-Demon?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/Vk-Demon/Simple-View-Counter">
-    <img alt="views" title="Github views" src="https://freshidea.com/Vk-Demon/app/ghpvc"/></a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Vk-Demon" alt="Vk-Demon" /> </p>
 
 👋 Hi, I’m @Vk-Demon
 - 👀 I’m interested in ...
