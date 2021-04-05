@@ -35,7 +35,7 @@
 
 Property                   | Data  
 ---------------------------|------
-Programming Language       | ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c) ![C++](https://img.shields.io/badge/-Cpp-333333?style=flat&logo=c++) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
+Programming Language       | ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c) ![Cpp](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++) ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) 
 Front-end      			   | ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) 
 Back-end    			   | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) 
 IDE / Tool / Framework     | 
