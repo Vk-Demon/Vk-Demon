@@ -20,7 +20,7 @@
 <!-- ABOUT MYSELF -->
 <h2 align="left"> <img src="images/about me.svg" width="18"> &nbsp;About Myself </h2>
 
-- 👀 I’m interested in **learning anything related to Web Tech**
+- 👀 I’m interested in **learning anything related to Web Technology**
 
 - 🌱 I’m currently learning **Mern Stack**
 
