@@ -1,6 +1,6 @@
 <!-- @Vk-Demon Readme.md-->
 <h1 align="center">
-  Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21">, I'm Vimal Kannan
+  Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="22">, I'm Vimal Kannan
 </h1>
 
 <!-- Typing SVG -->
@@ -18,13 +18,13 @@
 </p>
 
 <!-- ABOUT MYSELF -->
-<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> &nbsp;About Me </h2>
+<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> &nbsp;About Me </h2>
 
 <!-- TECH STACK -->
-<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> &nbsp;Tech Stack </h1>
+<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> &nbsp;Tech Stack </h1>
 
 <!-- GITHUB ANALYTICS -->
-<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> &nbsp;Github Analytics </h1>
+<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> &nbsp;Github Analytics </h1>
 
 <!-- CONNECT WITH ME -->
-<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="21"> &nbsp;Connect with Me </h1>
+<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> &nbsp;Connect with Me </h1>
