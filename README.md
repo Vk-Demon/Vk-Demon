@@ -18,13 +18,13 @@
 </p>
 
 <!-- ABOUT MYSELF -->
-<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"> &nbsp;About Me </h2>
+<h2 align="left"> <img src="images/about me.svg" width="18"> &nbsp;About Myself </h2>
 
 <!-- TECH STACK -->
-<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"> &nbsp;Tech Stack </h2>
+<h2 align="left"> <img src="images/tech stack.svg" width="18"> &nbsp;Tech Stack </h2>
 
 <!-- GITHUB ANALYTICS -->
-<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"> &nbsp;Github Analytics </h2>
+<h2 align="left"> <img src="images/analytics.svg" width="18"> &nbsp;Github Analytics </h2>
 
 <!-- CONNECT WITH ME -->
-<h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="18"> &nbsp;Connect with Me </h2>
+<h2 align="left"> <img src="images/contact.svg" width="18"> &nbsp;Connect with Me </h2>
