@@ -35,7 +35,7 @@
 
 Property                   | Data  
 ---------------------------|------
-Programming Language       | [![Python Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%Vk-Demon&type=Repositories)
+Programming Language       | [![Python Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%3AVk-Demon&type=Repositories)
 Front-end      			   | 
 Back-end    			   | 
 IDE / Tool / Framework     | 
