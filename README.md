@@ -33,6 +33,13 @@
 <!-- TECH STACK -->
 <h2 align="left"> <img src="images/tech stack.svg" width="18"> &nbsp;Tech Stack </h2>
 
+Property                   | Data  
+---------------------------|------
+Programming Language       | [![Python Badge](https://img.shields.io/badge/-PyCharm-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=Python&q=user%Vk-Demon&type=Repositories)
+Front-end      			   | 
+Back-end    			   | 
+IDE / Tool / Framework     | 
+
 <!-- GITHUB ANALYTICS -->
 <h2 align="left"> <img src="images/analytics.svg" width="18"> &nbsp;Github Analytics </h2>
 
