@@ -44,7 +44,7 @@ IDE / Tool / Framework     	 | ![Git](https://img.shields.io/badge/-Git-333333?s
 <h2 align="left"> <img src="images/analytics.svg" width="18"> &nbsp;Github Analytics </h2>
 
 <p align="left">
-<img height="200em" width="820em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vk-Demon&theme=algolia" alt="Vk-Demon" />
+<img height="200em" width="410em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vk-Demon&theme=algolia" alt="Vk-Demon" />
 <p>
 <p>
 <a align="left" href="https://github.com/Vk-Demon">
