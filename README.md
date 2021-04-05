@@ -49,7 +49,7 @@ Domain Knowlegde             | [![Web Design Badge](https://img.shields.io/badge
 <br />
 <img height="200em" width="410em" src="https://github-readme-stats.vercel.app/api?username=Vk-Demon&show_icons=true&theme=algolia" alt="Vk-Demon" />
 <br />
-<img height="200em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vk-Demon&layout=compact&theme=algolia" alt="Vk-Demon" />
+<img height="200em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vk-Demon&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="Vk-Demon" />
 <p>
 
 <!-- CONNECT WITH ME -->
