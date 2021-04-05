@@ -20,6 +20,16 @@
 <!-- ABOUT MYSELF -->
 <h2 align="left"> <img src="images/about me.svg" width="18"> &nbsp;About Myself </h2>
 
+- 👀 I’m interested in **learning anything related to Web Tech**
+
+- 🌱 I’m currently learning **Mern Stack**
+
+- 💞️ I’m looking to collaborate on **Javascript based projects**
+
+- 📫 How to reach me **vk2049627@gmail.com**
+
+- ⚡ Fun fact **I'm really fond of watching movies & listening to musics**
+
 <!-- TECH STACK -->
 <h2 align="left"> <img src="images/tech stack.svg" width="18"> &nbsp;Tech Stack </h2>
 
