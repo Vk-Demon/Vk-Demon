@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img height="50em" width="400em" src="https://freshidea.com/jonah/app/typing-svg/?lines=an%20aspiring%20Full-stack%20web%20developer;and%20app%20developer;Self-taught%20UI%2FUX%20Designer;Learning%20new%20things%20ceaselessly&center=true&height=100">
+  <img height="50em" width="400em" src="https://freshidea.com/jonah/app/typing-svg/?lines=an%20aspiring%20Full-stack%20web%20developer;and%20app%20developer;Self-taught%20UI%2FUX%20Designer;Learning%20new%20things%20ceaselessly&center=true&height=40">
 </p>
 
 <!-- Badges template - https://github.com/badges/shields -->
