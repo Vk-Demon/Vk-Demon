@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=an%20aspiring%20Full-stack%20web%20developer;and%20app%20developer;Self-taught%20UI%2FUX%20Designer;Learning%20new%20things%20ceaselessly&center=true&width=380&height=50">
+  <img src="https://freshidea.com/jonah/app/typing-svg/?lines=an%20aspiring%20Full-stack%20web%20developer;and%20app%20developer;Self-taught%20UI%2FUX%20Designer;Learning%20new%20things%20ceaselessly&center=true&width=400&height=50">
 </p>
 
 👋 Hi, I’m @Vk-Demon
