@@ -49,8 +49,8 @@ IDE / Tool / Framework     	 | ![Git](https://img.shields.io/badge/-Git-333333?s
 <br />
 <p>
 <a align="left" href="https://github.com/Vk-Demon">
-  <img height="180em" width="200em" align="left" src="https://github-readme-stats.vercel.app/api?username=Vk-Demon&show_icons=true&theme=algolia" alt="Vk-Demon" />
-  <img height="180em" width="200em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vk-Demon&layout=compact&theme=algolia" alt="Vk-Demon" />
+  <img height="200em" width="500em" align="left" src="https://github-readme-stats.vercel.app/api?username=Vk-Demon&show_icons=true&theme=algolia" alt="Vk-Demon" />
+  <img height="200em" width="500em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vk-Demon&layout=compact&theme=algolia" alt="Vk-Demon" />
 </a>
 </p>
 <br />
