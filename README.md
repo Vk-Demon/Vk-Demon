@@ -27,4 +27,4 @@
 <h2 align="left"> <img src="images/analytics.svg" width="18"> &nbsp;Github Analytics </h2>
 
 <!-- CONNECT WITH ME -->
-<h2 align="left"> <img src="images/contact.svg" width="18"> &nbsp;Connect with Me </h2>
+<h2 align="left"> <img src="images/contact.svg" width="20"> &nbsp;Connect with Me </h2>
