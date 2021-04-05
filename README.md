@@ -43,5 +43,7 @@ IDE / Tool / Framework     	 | ![Git](https://img.shields.io/badge/-Git-333333?s
 <!-- GITHUB ANALYTICS -->
 <h2 align="left"> <img src="images/analytics.svg" width="18"> &nbsp;Github Analytics </h2>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vk-Demon&theme=algolia)
+
 <!-- CONNECT WITH ME -->
 <h2 align="left"> <img src="images/connect.svg" width="18"> &nbsp;Connect with Me </h2>
