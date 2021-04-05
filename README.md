@@ -47,9 +47,9 @@ IDE / Tool / Framework     	 | ![Git](https://img.shields.io/badge/-Git-333333?s
 <p>
 <a href="https://github.com/Vk-Demon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vk-Demon&show_icons=true&theme=algolia" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vk-Demon&theme=algolia&layout=compact" />
 </a>
 </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vk-Demon&show_icons=true&theme=algolia" alt="Vk-Demon" /></p>
 
 <!-- CONNECT WITH ME -->
 <h2 align="left"> <img src="images/connect.svg" width="18"> &nbsp;Connect with Me </h2>
