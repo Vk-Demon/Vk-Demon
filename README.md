@@ -55,6 +55,5 @@ IDE / Tool / Framework     	 | ![Git](https://img.shields.io/badge/-Git-333333?s
 <h2 align="left"> <img src="images/connect.svg" width="18"> &nbsp;Connect with Me </h2>
 
 <p align="center">
-[![Gmail Badge](https://img.shields.io/badge/-vk2049627@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:vk2049627@gmail.com)](mailto:vk2049627@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Vimal%20Kannan-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vimal-kannan-7a800118a)](https://www.linkedin.com/in/vimal-kannan-7a800118a)
-</p>
+<a href="https://www.linkedin.com/in/vimal-kannan-7a800118a"><img src="https://img.shields.io/badge/-Vimal%20Kannan-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vimal-kannan-7a800118a"/></a>
+<a href="mailto:vk2049627@gmail.com"><img src="https://img.shields.io/badge/-vk2049627@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:vk2049627@gmail.com"/></a>
