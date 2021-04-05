@@ -50,6 +50,7 @@ IDE / Tool / Framework     	 | ![Git](https://img.shields.io/badge/-Git-333333?s
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vk-Demon&layout=compact&theme=algolia" alt="Vk-Demon" />
 </a>
 </p>
+<br />
 
 <!-- CONNECT WITH ME -->
 <h2 align="left"> <img src="images/connect.svg" width="18"> &nbsp;Connect with Me </h2>
