@@ -50,12 +50,6 @@ IDE / Tool / Framework     	 | ![Git](https://img.shields.io/badge/-Git-333333?s
 <br />
 <img height="200em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vk-Demon&layout=compact&theme=algolia" alt="Vk-Demon" />
 <p>
-<p align="left">
-  <img height="200em" width="410em" src="https://github-readme-stats.vercel.app/api?username=Vk-Demon&show_icons=true&theme=algolia" alt="Vk-Demon" />
-</p>
-<p align="left">
-<img height="200em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vk-Demon&layout=compact&theme=algolia" alt="Vk-Demon" />
-<p>
 
 <!-- CONNECT WITH ME -->
 <h2 align="left"> <img src="images/connect.svg" width="18"> &nbsp;Connect with Me </h2>
