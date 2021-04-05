@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **vk2049627@gmail.com**
 
-- ⚡ Fun fact **I'm really fond of watching movies 🎦 & listening to music 🎵**
+- ⚡ Fun facts **I'm really fond of watching movies 🎦 & listening to music 🎵**
 
 <!-- TECH STACK -->
 <h2 align="left"> <img src="images/tech stack.svg" width="18"> &nbsp;Tech Stack </h2>
